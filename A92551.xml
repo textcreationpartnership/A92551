@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Parliament of Scotland, to all his Majesties good subjects of this kingdome. Concerning their resolutions for religion, King and kingdoms, in pursuance of the ends of the Covenant.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92551</idno>
+            <idno type="STC">Wing S1225</idno>
+            <idno type="STC">Thomason E441_18</idno>
+            <idno type="STC">ESTC R203478</idno>
+            <idno type="EEBO-CITATION">99858747</idno>
+            <idno type="PROQUEST">99858747</idno>
+            <idno type="VID">110805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110805)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Parliament of Scotland, to all his Majesties good subjects of this kingdome. Concerning their resolutions for religion, King and kingdoms, in pursuance of the ends of the Covenant.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler ;</publisher>
+                  <publisher>for J. Huntscot,</publisher>
+                  <pubPlace>Imprinted at Edenburgh :</pubPlace>
+                  <pubPlace>and re-printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110805:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE PARLIAMENT OF <hi>SCOTLAND,</hi> To all his Majeſties good Subjects of this <hi>KINGDOME.</hi>
+            </p>
+            <p>Concerning their Reſolutions for RELIGION, KING and KINGDOMS, In purſuance of the Ends of the COVENANT.</p>
+            <figure>
+               <head>CR</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>Imprinted at <hi>Edenburgh</hi> by <hi>Evan Tyler,</hi> and re-printed at <hi>London</hi> for <hi>J. Huntſcot</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:110805:2"/>
+            <pb n="3" facs="tcp:110805:2"/>
+            <head>A DECLARATION OF THE Parliament of <hi>SCOTLAND,</hi> To all his Majeſties good Subjects of this Kingdom, concerning their reſolu<g ref="char:EOLhyphen"/>tions for Religion, King, and Kingdoms, in purſuance of the ends of the
+<hi>COVENANT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Eſtates of Parliament now conveened, in the firſt Seſſion of this-ſecond Trienniall Parliament, finding the ſtrong endeavours and attempts of diſaffected perſons and Enemies of Truth, to blaſt and ob<g ref="char:EOLhyphen"/>ſtruct our Labours in the perfor<g ref="char:EOLhyphen"/>mance of our duties, in order to all our Relations, by traducing and calumniating our proceedings; Are there<g ref="char:EOLhyphen"/>fore obliged to undeceive the abuſed People, to vindi<g ref="char:EOLhyphen"/>cate our ſelves from all unjuſt Aſperſions, and to clear and evidence to this Kingdom our conſtancy and firm<g ref="char:EOLhyphen"/>neſſe <pb n="4" facs="tcp:110805:3"/>to the Cauſe of God, which wee finde now in as great (if not greater) Danger then it ever was in ſince the beginning of all their late Troubles.</p>
+            <p>Upon the growing diviſions and debates betwixt his Majeſtie and his Two Houſes of the Parliament of <hi>England,</hi> This Kingdome did for the ſpace of neer two years, by reiterated Petitions and Meſſages of<g ref="char:EOLhyphen"/>fer their Services and endeavours, for compoſing and removing theſe Diſcentions and Differences. But their deſires therein, through the Councells and Practiſes of their common Enemies were ſtill made ineffectuall and diſappointed, untill at length many thouſands of either ſide were fallen by the fury and rage of a cruell and unnaturall Sword, and the Flouriſh<g ref="char:EOLhyphen"/>ing Kingdome of <hi>England</hi> turned into a field of blood. And while they were thus with their own hands, tear<g ref="char:EOLhyphen"/>ing out their own Bowels, and maſſacring themſelves, The Houſes of Parliament then in a very low Con<g ref="char:EOLhyphen"/>dition invited this Kingdom to their Aſſiſtance, who finding their Petitions and addreſſes to his Majeſtie, for a more Naturall and amicable deciſion of diffe<g ref="char:EOLhyphen"/>rences, then by the Sword, rejected; and juſtly appre<g ref="char:EOLhyphen"/>hending to have the dregs of that bitter Cup, which overflowed in
+<hi>England</hi> poure out upon their owne heads, if thoſe Councels and advices, which gave firſt Life and motion to theſe Diſcentions, ſhould ſtill be prevalent; Did engage in a Solemn League and Covenant for Reformation and defence of Religion, the Honour and Happineſſs of the King, and peace and ſafety of the three Kingdoms; In purſuance there<g ref="char:EOLhyphen"/>of, this Kingdome joyned in Arms with their Brethren in <hi>England,</hi> and for divers years through many hazards <pb n="5" facs="tcp:110805:3"/>and wants, did proſecute theſe ends, untill by the Bleſ<g ref="char:EOLhyphen"/>ſing of God upon their joynt endeavours, their com<g ref="char:EOLhyphen"/>mon Enemies were ſubdued, and moſt of them brought to ſuch condigne puniſhment as the reſpective Parlia<g ref="char:EOLhyphen"/>ments thought fit. Thereafter, our Army returned home upon aſſurance from the two Houſes, that the Treaties and Covenant ſhould be inviolably kept. But by the contrary, We finde that there is not any Article of the Solemn League and Covenant, which has not been Sinfully and Dangerouſly violated be<g ref="char:EOLhyphen"/>fore God, Angels and Men, by the prevalent party of Sectaries, and their adherents; Nay, the Covenant it ſelfe like to be deſtroyed, or at leaſt forgot and laid aſide. For where we expected that according to the firſt Article of the Treaty betwixt the Kingdoms, in <hi>Anno,</hi> 1643. It ſhould have been tane by both King<g ref="char:EOLhyphen"/>doms, and that the not Takers thereof are by the joynt Declaration of both declared publick Enemies to Religion and Country, and are to be puniſhed as pro<g ref="char:EOLhyphen"/>feſſed Adverſaries and Malignants. We now finde by the prevalent Party of Sectaries and their adherents; It is not onely laid aſide in the new Propoſitions lately ſent to his Majeſty to the <hi>Ile</hi> of
+<hi>Wight,</hi> and no executi<g ref="char:EOLhyphen"/>on of publick Orders for taking it through the Coun<g ref="char:EOLhyphen"/>try, but alſo many perſons of eminent &amp; publick Truſts in the Army and elſewhere, have never taken it, neither are urged thereunto. Inſtead of Reformation &amp; defence of Religion, That Reformation which by the Cove<g ref="char:EOLhyphen"/>nant ought to be endeavoured, is reſiſted and hindered, Hereſie and Schiſme Tolerated, under which moſt horrid Blaſphemies are ſheltered and protected, if not openly profeſſed and allowed. In ſtead of maintaining <pb n="6" facs="tcp:110805:4"/>the Rights and Priviledges of Parliament, the Houſes have been highly diſobeyed, and threatned; Thoſe who by the Covenant ought to be brought to con<g ref="char:EOLhyphen"/>digne tryall and puniſhment for hindering the Refor<g ref="char:EOLhyphen"/>mation of Religion, dividing the King from his Peo<g ref="char:EOLhyphen"/>ple, or any of the Kingdoms from another, or making any Faction or Party amongſt the people, contrary to the League and Covenant, have been protected and aſſiſted, and thoſe perſecuted who by the Covenant ought to be defended. In ſtead of a firme union and peace betwixt the Kingdoms, a breach hath been en<g ref="char:EOLhyphen"/>deavoured. And whereas both Kingdoms by the So<g ref="char:EOLhyphen"/>lemn League and Covenant are obliged to preſerve his Majeſties Perſon and Authority, in the preſervation and defence of the true Religion and Liberties of the Kingdoms, that the world may beare witneſſe with our Conſciences of our Loyalty, and that we have no thoughts nor intentions to diminiſh his Majeſties juſt power and greatneſſe. And the Kingdom of <hi>Scotland,</hi> having alſo upon his Majeſties going from <hi>Newcaſtle,</hi> declared againſt all injury, harm, prejudice, or violence to be done to his Royall Perſon: Yet by a ſudden ſur<g ref="char:EOLhyphen"/>prizall his Majeſty was violently ſeized on, and carried from his houſe at <hi>Holdenby</hi> againſt his owne will, and the declared Reſolution of both Kingdoms by a par<g ref="char:EOLhyphen"/>ty of the Army under the Command of Sir <hi>Thomas Fairfax,</hi> and by that Army thereafter carried about from place to place at their pleaſure, kept and inviro<g ref="char:EOLhyphen"/>ned with ſtrong guards within their Quarters untill he was forced for ſafety of his life to fly from <hi>Hamp<g ref="char:EOLhyphen"/>ton</hi> Court, as he himſelfe declared in his Meſſage from thence: And by the power and prevalency of that Ar<g ref="char:EOLhyphen"/>my
+<pb n="7" facs="tcp:110805:4"/>and their adherents he is kept a cloſe Priſoner in the Iſle of <hi>Wight,</hi> and Votes paſt, declaring it high Treaſon to make any further applications to him, or to receive any Meſſages or Letters from him; Yea, even to that extremity are they already gone againſt him, that it is declared they will repoſe no further truſt in him. Like as not onely ſuch as had Warrants for ac<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe to him, from the Parliament of this Kingdome are debarred thereof, notwithſtanding of the ingage<g ref="char:EOLhyphen"/>ment of the Houſes 27
+<hi>January,</hi> 1647. to the contra<g ref="char:EOLhyphen"/>ry, but the Earl of <hi>Landerdale</hi> a publick Miniſter of this Kingdom, contrary to the Law of Nations, was violently removed from <hi>Woburn,</hi> where his Majeſtie then was, and not ſuffered to have acceſſe to him; and though reparation therein was deſired by the Com<g ref="char:EOLhyphen"/>mittee of Eſtates, yet none was given: And when the ſaid Commiſſioners deſired to know whether the Votes againſt all Applications to the King did extend to His Majeſties Subjects of
+<hi>Scotland,</hi> to debar ſuch as are Warranted by the Parliament of this Kingdome, or their Committees from free acceſſe to, or intercourſe with His Majeſty; or that he ſhould be hindred from, and ſo made uncapable of any Act of Government in relation to the affairs of <hi>Scotland,</hi> no Anſwer at all was returned thereto, untill the Commiſſioners from both Houſes now reſiding here, did in <hi>March</hi> laſt give to us a large Declaration from them, acclaiming the ſole power of the diſpoſing of the Perſon of the King in <hi>England.</hi> We do not conceive it fit at this time to inſiſt upon any violation made of the large Treaty con<g ref="char:EOLhyphen"/>cerning the remainder of the money due upon the bro<g ref="char:EOLhyphen"/>therly aſſiſtance, nor of the Treaty for the Army in <pb n="8" facs="tcp:110805:5"/>
+               <hi>Ireland,</hi> whoſe ſervice there was due in <hi>Anno</hi> 1643. by a ſubſcrivit Accompt 312000.
+<abbr>l.</abbr>
+               <hi>ſterling</hi> (though we can never part from the intereſt of that Army till they be juſtly ſatisfied for their long and faithfull ſervices) For as money neither was the cauſe nor motive to any of our undertakings nor reſolutions, whatever hath been falſly ſuggeſted by our Enemies, ſo wee ſhall not value it to much as now to mention it amongſt the cauſes and grounds of our proceedings at this time.</p>
+            <p>By the large Treaty betwixt the Kingdoms of <hi>Scotland</hi> and
+<hi>England,</hi> it is provided, That if any Ar<g ref="char:EOLhyphen"/>mies bee leavied in any of the Kingdoms, and the neighbour Kingdome thereby harmed or wronged, that then the Eſtates, of the Country by which it is done ſhall be obliged to purſue, take, and puniſh the offenders with all rigour. The Kingdome of
+<hi>Scot<g ref="char:EOLhyphen"/>land</hi> hath divers times deſired the performance of this Article, and in particular the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> upon the 16. of
+<hi>Ianuary</hi> 1647. To which the Houſes in their Letter of the 27. of
+<hi>Ianuary</hi> ingaged themſelves to the Parliament of <hi>Scotland,</hi> That the <hi>Engliſh</hi> Gariſons being delivered up, and the
+<hi>Scottiſh</hi> Army marched out of <hi>England,</hi> They ſhould take that deſire into ſpeedy conſideration. Upon the 16. of <hi>Iuly,</hi>
+1647. the <hi>Scottiſh</hi> Commiſſioners deſired per<g ref="char:EOLhyphen"/>formance hereof. But through the prevalencie and power of the Sectaries, no reparation, ſatisfaction nor anſwer was given.</p>
+            <p>And although by the eighth Article of the Trea<g ref="char:EOLhyphen"/>tie, 1643. It is agreed that no Ceſſations, Pacifica<g ref="char:EOLhyphen"/>tions, nor agreement for peace whatſoever ſhall bee <pb n="9" facs="tcp:110805:5"/>made by either Kingdome, or the Armies of either Kingdom without mutuall advice and conſent of both Kingdomes, which engagement the Houſes of Parliament alſo repeated in their Letter of the 17, of <hi>January</hi> 1648. to obſerve that Article after the remo<g ref="char:EOLhyphen"/>vall of our Army out of <hi>England;</hi> yet contrary there<g ref="char:EOLhyphen"/>unto the Army of Sectaries and their adherents fra<g ref="char:EOLhyphen"/>med Propoſalls deſtructive to the Ends of the Cove<g ref="char:EOLhyphen"/>nant, which were preſented to his Majeſty without the adviſe or conſent of the Kingdom of <hi>Scotland:</hi> And thereafter, by their power and prevalency, the Houſes of Parliament have laid aſide the Propoſitions agreed on by both Kingdoms, &amp; have contrary to the Trea<g ref="char:EOLhyphen"/>ty, preſented Propoſitions and Bills to his Majeſty; againſt which the Commiſſioners of this Kingdom by order, and according to their inſtructions, did proteſt, as being deſtructive to Religion, the Crowne and u<g ref="char:EOLhyphen"/>nion of the Kingdomes.</p>
+            <p>Theſe dangers ſo eminently threatning Religion, and Government call upon us, as Chriſtians, as Sub<g ref="char:EOLhyphen"/>jects, as Scotchmen, to a duty to God, our King and Countrey, and to our oppreſſed and heavily afflicted Brethren in <hi>England</hi> who are faithfull and conſtant to the cauſe of God. We have therefore reſolved in the firſt place to endeavor &amp; aſſay all brotherly and ami<g ref="char:EOLhyphen"/>able means of repairing and making up ſuch differen<g ref="char:EOLhyphen"/>ces or breaches, as may otherwiſe neceſſitat this King<g ref="char:EOLhyphen"/>dom to ingage in a War: And therefore, we do intend to ſend to the Honourable Houſes of the Parliament of <hi>England,</hi> Theſe following neceſſary, and juſt de<g ref="char:EOLhyphen"/>ſires for Religion, His Majeſty, and good and peace of theſe Kingdoms.</p>
+            <pb n="10" facs="tcp:110805:6"/>
+            <p n="1">1 That an effectuall courſe be tane by the Houſes for enjoyning the Covenant to be taken by all the ſubjects of the Crown of
+<hi>England</hi> conforme to the firſt Article of the Treaty, and conform to the Declaration of both Kingdomes in <hi>anno</hi> 1643. By which all who would not take the Covenant were declared to be publike enemies to Religion and the country, and that they are to be cenſured and puniſhed as profeſſed adverſaries and malignants: And that Reformation of, and Uniformity in Religion be ſetled according to the Covenant. That as the Houſes of Parliament have agreed to the Directory of Worſhip, ſo they would take a reall courſe for the practicing thereof by all the ſubjects in
+<hi>England</hi> and <hi>Ireland,</hi> that the con<g ref="char:EOLhyphen"/>feſſion of Faith tranſmitted from the Aſſembly of Divines at <hi>Weſtminſter</hi> to the Houſes be approven; &amp; that Presbyteriall government with the ſubordinati<g ref="char:EOLhyphen"/>on of the lower Aſſemblies to the higer be ſetled and fully eſtabliſhed in <hi>England</hi> and <hi>Ireland,</hi> and that any effectuall courſe be taken for ſuppreſſing and exterpa<g ref="char:EOLhyphen"/>ting all Hereſies &amp; Schiſmes, particularly Socinianiſm, Arminianiſm, Arrianiſm, Anabaptiſm, Antinomio<g ref="char:EOLhyphen"/>niſm, Eraſtianiſm, Familiſm, Browniſm and Indepen<g ref="char:EOLhyphen"/>dencie; and for perfecting what is yet further to be done for extirpating Popery &amp; Prelacy, and ſuppreſ<g ref="char:EOLhyphen"/>ſing the practiſe of the Service Book, commonly called <hi>the Book of Engliſh Common Prayer.</hi>
+            </p>
+            <p n="2">2 That conform to the former deſires of this King<g ref="char:EOLhyphen"/>dom, the Kings Majeſty may come with honour, free<g ref="char:EOLhyphen"/>dom and ſafety to ſeme of His houſes in or neare <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that the Parliaments of both Kingdoms may make their applicacations to Him for obtaining His Royall
+<pb n="11" facs="tcp:110805:6"/>aſſent to ſuch deſires as ſhall be by them preſented to Him, for eſtabliſhing Religion, as is above expreſt and ſetling a well grounded peace.</p>
+            <p n="3">3 And to the end, that all Members of both Houſes who have been faithfull to this Cauſe, may freely and ſafely returne and attend their charges, the City of <hi>London</hi> may enjoy its liberty and priviledges which it had before the late encroachment of the Armie, the Parliament may ſit and voice with freedome and ſafe<g ref="char:EOLhyphen"/>ty, both Kingdomes without interruption or diſtur<g ref="char:EOLhyphen"/>bance may make their applications to His Majeſty, and the ſetling of Religion and Peace may be no lon<g ref="char:EOLhyphen"/>ger hind red and obſtructed, that the preſent Army of Sectaries under the Command of
+<hi>Thomas</hi> Lord <hi>Eair<g ref="char:EOLhyphen"/>fax</hi> of <hi>Cameron,</hi> bee disbanded, and none imployed but ſuch as have or ſhall take the Covenant, &amp; are wel affected to Religion &amp; Government, excepting from the ſaid disbanding the garriſons neceſſary to be kept up by the Parliament of <hi>England,</hi> for the ſafety of that Kingdom, which are deſired to be commanded by ſuch as have or ſhall take the Covenant, and are well affected to Religion and Government as aforeſaid.</p>
+            <p>Wee will not doubt, but the Honourable Houſes will ſeriouſly weigh and conſider how neceſſary and juſt theſe our demands are, to which we will expect a ſatisfactory anſwer; But if through the influence and power of the Army of Sectaries that now invirons them, theſe our deſires be ſlighted and rejected; Yet, we reſolve by Gods aſſiſtance in all our proceedings never to break on our part the unio<g ref="char:cmbAbbrStroke">̄</g> betwixt the king<g ref="char:EOLhyphen"/>domes, nor to encroach upon the nationall rights of the ſubjects of <hi>England,</hi> or entrench upon their juſt
+<pb n="12" facs="tcp:110805:7"/>liberties, much leſſe is it our intention at all to make any National engagement againſt the Parliament and Kingdome of
+<hi>England.</hi> But for them whoſe freedome Priviledges and happineſſe ſhall be ever as Dear to Us as our owne. And if we ſhall be neceſſitate to any un<g ref="char:EOLhyphen"/>dertakings in War. Wee doe reſolve that as the in<g ref="char:EOLhyphen"/>gagements of this Kingdome have beene conſtantly hitherto, for ſetling Truth and Peace under his Ma<g ref="char:EOLhyphen"/>jeſties Government, So they ſhall ſtill be for the ob<g ref="char:EOLhyphen"/>taining the ſame ends. And wee will be carefull that in the managing &amp; carrying on of ſo pious &amp; dutifull a worke. That we ſhall not enter into Aſſociation and Conjunction of Force with thoſe, who ſhall refuſe to ſweare and ſubſcribe the Solemn League and Co<g ref="char:EOLhyphen"/>venant, nor uſe ſuch meanes or inſtruments as may diſcourage or diſoblige the Presbyterians in
+<hi>England,</hi> who continue firme to the Solemne League and Co<g ref="char:EOLhyphen"/>venant: And that we will be ſo farre from Joyning or Aſſociating our ſelves with the Popiſh, Prelaticall or Malignant party, if they ſhall againe riſe in Arms; either to oppoſe or obſtruct all or any of the ends of the Covenant; That on the contrary we will oppoſe and endeavour to ſuppreſſe them, as Enemies to the Cauſe and Covenant on the one hand, as well as Se<g ref="char:EOLhyphen"/>ctaries on the other. And we further declare, That wee will give truſt in our Armies, and Committees to none but ſuch as are of knowne Integrity, Abilities and Faithfulneſſe to this Cauſe and Covenant, and againſt whom there is no juſt cauſe of Exception. And as wee ſhall endeavour the Reſcuing of his Ma<g ref="char:EOLhyphen"/>jeſty from thoſe who violently carried him away from <hi>Holdenby,</hi> and by whoſe power he is ſtil detained <pb n="13" facs="tcp:110805:7"/>cloſe priſoner; That he may come with Honour, Free<g ref="char:EOLhyphen"/>dom and Safety to ſome or his Houſes, in or neer to <hi>London,</hi> where both Kingdoms may make their appli<g ref="char:EOLhyphen"/>cations to him, for ſetling Religion, &amp; a well ground<g ref="char:EOLhyphen"/>ed Peace: So we reſolve not to put in his Majeſties Hands or any others whatſoever, any ſuch power, whereby the foreſaid ends of the Covenant, or any one of them may be obſtructed or oppoſed, Religion or Presbyterian Government endangered. But on the contrary, before any agreement or condition to be made with his Majeſty, having found his late Con<g ref="char:EOLhyphen"/>ceſſions and Offers concerning Religion not ſatisfa<g ref="char:EOLhyphen"/>ctory. That he give aſſurance by his Solemne Oath under His hand and Seal. That he ſhall for Himſelfe, and his Succeſſors give His Royall aſſent, and Agree to ſuch Act or Acts of Parliament, and Bills as ſhall be preſented to Him by His Parliaments of both or either Kingdomes <hi>reſpectivé,</hi> for enjoying the League and Covenant, and fully eſtabliſhing Presbyteriall Government, Directory of Worſhip and Confeſſion of Faith in all his Majeſties Domi<g ref="char:EOLhyphen"/>nions. And that his Majeſty ſhall never make any oppoſition to any of thoſe, nor indeavour any change thereof. And further to ſhew and evidence the can<g ref="char:EOLhyphen"/>dor and reality of our intentions, we are willing to ſubjoyne to the grounds of our undertakings and Oath, whereof both in the framing thereof, and other<g ref="char:EOLhyphen"/>waies we are willing the Church ſhall have their due intereſt as formally in the like caſes.</p>
+            <p>And albeit we are reſolved not to ingage in any War before the neceſſity and lawfulneſſe thereof be cleared: ſo as all who are well affected may be ſa<g ref="char:EOLhyphen"/>tisfied <pb n="14" facs="tcp:110805:8"/>therewith. And that reparation to ſuch breaches an injuries as are or ſhall be condeſcended to ſhall be demanded in ſuch a juſt and fit way as ſhall be found moſt lawfull and expedient. Yet we cannot be anſwerable to the great truſt laid upon us, if ſeeing ſo imminent and great Dangers to all that is deareſt to us; We did not make uſe of our Authority and Power for the common ſafety of this Kindome; And therefore we have reſolved to put this Kingdom preſently into a poſture of Defence, as it was <hi>An.</hi> 1643</p>
+            <p>And now as many of the dangers, with the grounds and reſolutions in purſuance of our duties, are hereby made known to this Kindom; ſo we are aſſured, that all, and every one, who have any zeale to Religion, love to Monarchicall Government, ſenſe of the ſuf<g ref="char:EOLhyphen"/>ferings and impriſonment of their King, affection to their oppreſſed Brethren in <hi>England,</hi> or deſire to pre<g ref="char:EOLhyphen"/>ſerve the Priviledges of Parliament, and liberty of the Subject will cheerfully in ſuch an exigent (while the eyes of al Chriſtendom are on us) rouze up themſelves and contribute their beſt endeavours, as they ſhal be required by us, in purſuance of all the ends of the Co<g ref="char:EOLhyphen"/>venant, aſwell for Religion as for his Majeſties Per<g ref="char:EOLhyphen"/>ſon, and Government, and Priviledges of Parliament; in doing whereof we ſhall witneſſe to the world, that we have not ſwerved from theſe our firſt principles contained in our Nationall Covenant, and in our So<g ref="char:EOLhyphen"/>lemn League and Covenant, whereby we did ſolemn<g ref="char:EOLhyphen"/>ly ſwear and promiſe before God and his Angels, To endevor in our ſeverall places and callings, the Refor<g ref="char:EOLhyphen"/>mation of, and Uniformity in Religion and Church-Government in all his Majeſties Dominions, accord<g ref="char:EOLhyphen"/>ing <pb n="15" facs="tcp:110805:8"/>to the Word of God, and example of the beſt Reformed Churches; and not onely to the utmoſt of our Power, with our meanes and lives to ſtand to the defence of our dread Soveraign, his Perſon and Au<g ref="char:EOLhyphen"/>thority, in the Preſervation of the true Religion, and liberties of the Kingdoms: But alſo in every cauſe which may concern his Majeſties honor to concur ac<g ref="char:EOLhyphen"/>cording to the Laws of this Kingdome, and duty of good Subjects: And alſo hereby give a ſingular proof of the good intentions of all that maintain Presbyte<g ref="char:EOLhyphen"/>riall Government, that they are not enemies to Mo<g ref="char:EOLhyphen"/>narchie as they are falſely by their enemies branded. And in particular this Kingdome of <hi>Scotland</hi> will now make it evident as they often declared, that their qui<g ref="char:EOLhyphen"/>etneſs, ſtability, and happineſſe doth depend upon the ſafety of the Kings Majeſties perſon, and maintenance of his greatneſſe and Royall Authority, who is Gods Vice gerent ſet over us for maintenance of Religion, and miniſtration of Juſtice: Having ſo many bands and ties of Duty and ſubjection to his Majeſty, and his Government, who is our Native King from a lon<g ref="char:EOLhyphen"/>ger Series and diſcent of his Royall Progenitors then can be paralleld in <hi>Europe.</hi> That we reſolve cloſely, and conſtantly to adhere thereunto, as alſo to all the Ends of the Covenant.</p>
+            <closer>
+               <signed>Alex. Gibſon, <hi>Cler. Regiſt.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
